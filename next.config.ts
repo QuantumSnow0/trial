@@ -4,9 +4,6 @@ const nextConfig: NextConfig = {
   images: {
     domains: ["lh3.googleusercontent.com"],
   },
-  experimental: {
-    ppr: "incremental",
-  },
 };
 
 export default nextConfig;
